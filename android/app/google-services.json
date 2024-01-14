@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205354591702",
+    "project_id": "complete-ecommerce-firebase23",
+    "storage_bucket": "complete-ecommerce-firebase23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205354591702:android:d52367d88ad118dd56b077",
+        "android_client_info": {
+          "package_name": "com.example.complete_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXIkiexrAqVYlm_rLJqLRq0PKPIVA-rQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
